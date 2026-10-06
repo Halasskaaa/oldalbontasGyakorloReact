@@ -1,0 +1,1 @@
+// import type { ListaBase } from "../types/listaBase";
