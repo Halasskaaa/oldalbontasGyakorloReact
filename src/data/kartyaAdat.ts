@@ -24,6 +24,12 @@ const kartyaAdat: KartyaBase[] = [
         leiras: "Geri egy 6 éves zsiráf. Súlya körülbelül 850 kg.",
         veszelyeztetett: true,
         kedcencEtel: ["Levelek", "ágak"]
+    },
+    {
+        nev: "Pingvi",
+        leiras: "Pingvi egy 3 éves pingvin. Súlya körülbelül 30 kg.",
+        veszelyeztetett: false,
+        kedcencEtel: ["Hal", "krill"]
     }
 
 ];
